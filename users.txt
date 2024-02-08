@@ -1,0 +1,2 @@
+db.users.insertMany([{name: "Michelle Magoiran", age: 25, cars: ["Fit", "Accord"]}, {name:"John Smith", age: 49, cars: ["Sienna"]}])
+                                                        
